@@ -1,0 +1,9 @@
+{
+  "renewable_energy": {
+    "India": { "latitude": 20.59, "longitude": 78.96, "solar": 50, "wind": 40 },
+    "USA": { "latitude": 37.09, "longitude": -95.71, "solar": 80, "wind": 100 },
+    "China": { "latitude": 35.86, "longitude": 104.19, "solar": 160, "wind": 140 },
+    "Germany": { "latitude": 51.16, "longitude": 10.45, "solar": 60, "wind": 75 },
+    "Brazil": { "latitude": -14.23, "longitude": -51.92, "solar": 25, "wind": 20 }
+  }
+}
